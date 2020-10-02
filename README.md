@@ -1,2 +1,2 @@
 # blog
-My blog! Material Design Theme! Motivated from: https://blog.google
+My Blog! Material Design Theme! Motivated from: https://blog.google
